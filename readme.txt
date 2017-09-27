@@ -1,1 +1,1 @@
-Now write a couple of lines of text, perhaps say hello, and save the file as 
+Now write a couple of lines of text, perhaps say hello.
